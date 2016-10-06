@@ -1,7 +1,0 @@
-<templateSet group="PHP">
-  <template name="flog" value="$this-&gt;flog($)" description="Function Log to Debug" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP Class Member" value="true" />
-    </context>
-  </template>
-</templateSet>
