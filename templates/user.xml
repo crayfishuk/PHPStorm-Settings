@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="flog" value="$this-&gt;flog(__METHOD__$END$);&#10;&#10;" description="Function logging call" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
