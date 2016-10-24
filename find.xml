@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[ci] - ...\app\Config\bootstrap.php'" />
-    <option name="defaultScopeName" value="File '[ci] - ...\app\Config\bootstrap.php'" />
+    <option name="customScope" value="File '[ci] - ...\app\Config\core.php'" />
+    <option name="defaultScopeName" value="File '[ci] - ...\app\Config\core.php'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[ci] - ...\app\Config\bootstrap.php'" />
+    <option name="SEARCH_SCOPE" value="File '[ci] - ...\app\Config\core.php'" />
   </component>
 </application>
