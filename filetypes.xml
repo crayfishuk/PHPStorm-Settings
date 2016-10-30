@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="markdown" type="Markdown" />
       <mapping ext="ctp" type="PHP" />
       <mapping ext="options" type="PLAIN_TEXT" />
     </extensionMap>
