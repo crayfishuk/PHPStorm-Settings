@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="bash" type="Bash" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ctp" type="PHP" />
       <mapping ext="options" type="PLAIN_TEXT" />
-      <mapping ext="bash" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
