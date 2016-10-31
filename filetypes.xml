@@ -4,9 +4,8 @@
       <removed_mapping ext="bash" type="Bash" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ctp" type="PHP" />
-      <mapping pattern="email_templates_root_actions.ctp" type="PLAIN_TEXT" />
-      <mapping ext="bash" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
+      <mapping ext="bash" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
