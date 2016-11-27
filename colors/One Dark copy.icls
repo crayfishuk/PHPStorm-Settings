@@ -2,7 +2,6 @@
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
@@ -448,7 +447,9 @@
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="46494b" />
+      </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
@@ -686,7 +687,9 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="490800" />
+      </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value />
