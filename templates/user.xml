@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="ctp" value="&lt;?php /** @var \App\View\AppView $this */ ?&gt;&#10;&#10;" description="CTP header" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
