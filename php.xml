@@ -1,5 +1,10 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="vagrant://C:/Dropbox/S-Drive/Inetpub/ci/usr/bin/php" id="ddb1f5a6-5d6b-4199-bf07-9ba4a9455cad" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">

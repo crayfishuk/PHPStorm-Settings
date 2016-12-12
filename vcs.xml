@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com/" />
           <option name="userName" value="crayfishuk" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="crayfishuk" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Dropbox\S-Drive\Inetpub" />

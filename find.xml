@@ -1,7 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[cf-dev] - ...\app\Model\LiveService.php'" />
-    <option name="defaultScopeName" value="File '[cf-dev] - ...\app\Model\LiveService.php'" />
-    <option name="SEARCH_SCOPE" value="File '[cf-dev] - ...\app\Model\LiveService.php'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '[SkillsDB] - ...\src\Controller\SkillsController.php'" />
+    <option name="defaultScopeName" value="File '[SkillsDB] - ...\src\Controller\SkillsController.php'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[SkillsDB] - ...\src\Controller\SkillsController.php'" />
   </component>
 </application>
