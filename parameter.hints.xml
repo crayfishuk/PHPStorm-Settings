@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\__(singular,args)" />
+        <added pattern="\Object.log(msg,type,scope)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
