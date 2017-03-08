@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[cf-dev] - ...\app\Controller\MaillogSummariesController.php'" />
-    <option name="defaultScopeName" value="File '[cf-dev] - ...\app\Controller\MaillogSummariesController.php'" />
-    <option name="SEARCH_SCOPE" value="File '[cf-dev] - ...\app\Controller\MaillogSummariesController.php'" />
+    <option name="customScope" value="File '[cf-dev] - ...\app\View\Clients\status.ctp'" />
+    <option name="defaultScopeName" value="File '[cf-dev] - ...\app\View\Clients\status.ctp'" />
+    <option name="SEARCH_SCOPE" value="File '[cf-dev] - ...\app\View\Clients\status.ctp'" />
   </component>
 </application>
