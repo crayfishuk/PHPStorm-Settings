@@ -1,7 +1,9 @@
 <scheme name="One Dark copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
@@ -57,6 +59,11 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="3b9395" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
