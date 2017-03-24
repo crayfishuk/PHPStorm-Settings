@@ -5,6 +5,8 @@
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ctp" type="PHP" />
       <mapping ext="options" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="Perl" />
+      <removed_mapping ext="conf" type="SmartyConfig" />
     </extensionMap>
   </component>
 </application>
