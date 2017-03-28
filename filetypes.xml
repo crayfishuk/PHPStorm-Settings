@@ -4,6 +4,7 @@
       <mapping pattern="Vagrantfile" type="ActionScript" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ctp" type="PHP" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
