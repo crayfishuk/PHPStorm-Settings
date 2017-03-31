@@ -6,6 +6,8 @@
       <mapping ext="ctp" type="PHP" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="Perl" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
     </extensionMap>
   </component>
 </application>
