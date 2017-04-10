@@ -4,10 +4,11 @@
       <mapping pattern="Vagrantfile" type="ActionScript" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Perl" />
-      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="conf" type="SmartyConfig" />
     </extensionMap>
   </component>
 </application>
