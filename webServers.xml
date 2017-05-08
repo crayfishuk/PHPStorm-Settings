@@ -12,6 +12,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4a6f38e4-f8f8-4e2d-a035-3b01c1ac9d87" name="staging" url="http://www.staging.local">
+        <fileTransfer host="www.staging.local" port="22" rootFolder="/home/www/templates/prolateral3" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
