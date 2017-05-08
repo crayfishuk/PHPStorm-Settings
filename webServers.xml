@@ -20,6 +20,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5a60080b-1bf2-41dc-b524-c8a963438c10" name="stagingBS4" url="http://www.staging.local">
+        <fileTransfer host="www.staging.local" port="22" rootFolder="/home/www/templates/frontbs3" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
