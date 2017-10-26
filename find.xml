@@ -8,6 +8,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="MyApp" />
+    <option name="FILE_MASK" value="Form*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,18 +17,24 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.hp</mask>
       <mask>*.p</mask>
       <mask>*.?p</mask>
       <mask>*.??p</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.ct</mask>
       <mask>*.ctp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>F</mask>
+      <mask>Fo</mask>
+      <mask>For</mask>
+      <mask>Form</mask>
+      <mask>Form*</mask>
     </recentFileMasks>
   </component>
 </application>
