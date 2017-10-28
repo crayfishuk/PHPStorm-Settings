@@ -4,4 +4,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="!cdf" value="/* CDF $DATE$ $END$ */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date(&quot;Y-M-d&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

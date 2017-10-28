@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="markdown" type="Markdown" />
+      <mapping pattern="ProductsComponent" type="PHP" />
       <mapping ext="ctp" type="PHP" />
-      <mapping ext="options" type="PLAIN_TEXT" />
+      <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
+      <mapping pattern="transport" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

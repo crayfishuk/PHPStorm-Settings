@@ -1,11 +1,39 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[SkillsDB] - ...\src\Controller\SkillsController.php'" />
-    <option name="defaultScopeName" value="File '[SkillsDB] - ...\src\Controller\SkillsController.php'" />
+    <option name="customScope" value="MyApp" />
+    <option name="defaultScopeName" value="MyApp" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[SkillsDB] - ...\src\Controller\SkillsController.php'" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="MyApp" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.hp</mask>
+      <mask>*.p</mask>
+      <mask>*.?p</mask>
+      <mask>*.??p</mask>
+      <mask>*.c</mask>
+      <mask>*.ct</mask>
+      <mask>*.ctp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>F</mask>
+      <mask>Fo</mask>
+      <mask>For</mask>
+      <mask>Form</mask>
+      <mask>Form*</mask>
+    </recentFileMasks>
   </component>
 </application>
