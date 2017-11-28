@@ -4,6 +4,7 @@
       <mapping pattern="ProductsComponent" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
+      <mapping pattern="Puppetfile" type="PLAIN_TEXT" />
       <mapping pattern="transport" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
