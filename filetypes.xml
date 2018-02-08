@@ -9,6 +9,9 @@
       <mapping pattern="access" type="PLAIN_TEXT" />
       <mapping pattern="transport" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="ca-bundle" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="Perl" />
       <mapping ext="epp" type="SmartyConfig" />
     </extensionMap>
