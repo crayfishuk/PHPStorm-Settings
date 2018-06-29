@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="004e17bf-b895-4459-80cb-1437b5b182cc" name="whmcs.staging.local" url="http://whmcs.staging.local">
-        <fileTransfer host="whmcs.staging.local" port="22" privateKey="D:\Documents\My Keys\private\mouse-ssh.ppk" rootFolder="/home/wwwWHMCS/modules" accessType="SFTP" keyPair="true">
+        <fileTransfer host="whmcs.staging.local" port="22" privateKey="D:\Documents\My Keys\private\mouse-ssh.ppk" rootFolder="/home/wwwWHMCS/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
