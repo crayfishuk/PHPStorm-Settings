@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/crayfishuk/icycle.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://craigfisher@bitbucket.org/prolateral/my-engine-addon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Craig\Desktop" />
+    <option name="cloneParentDir" value="C:\Users\cfisher\Desktop\Ubunti 16 WHMCS\www\html\whmcs\modules\addons" />
   </component>
 </application>
