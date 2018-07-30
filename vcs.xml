@@ -26,6 +26,10 @@
           <option name="url" value="https://craigfisher@bitbucket.org/prolateral/my-engine-addon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@cypher.ad.prolateral.com:/home/git/testrepo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\cfisher\Desktop\Ubunti 16 WHMCS\www\html\whmcs\modules\addons" />
