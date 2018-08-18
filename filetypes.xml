@@ -3,8 +3,17 @@
     <extensionMap>
       <mapping pattern="ProductsComponent" type="PHP" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="Puppetfile" type="PLAIN_TEXT" />
       <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
+      <mapping pattern="access" type="PLAIN_TEXT" />
       <mapping pattern="transport" type="PLAIN_TEXT" />
+      <mapping ext="cf" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="ca-bundle" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="Perl" />
+      <mapping ext="epp" type="SmartyConfig" />
     </extensionMap>
   </component>
 </application>
