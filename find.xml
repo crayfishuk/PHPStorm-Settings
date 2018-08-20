@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\Controller\ClientsController.php [cf-dev]'" />
-    <option name="defaultScopeName" value="File '...\app\Controller\ClientsController.php [cf-dev]'" />
-    <option name="SEARCH_SCOPE" value="File '...\app\Controller\ClientsController.php [cf-dev]'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
