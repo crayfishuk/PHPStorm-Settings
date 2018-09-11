@@ -1,0 +1,7 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="http://gitlab.ad.prolateral.com" />
+    <option name="token" value="TYVzTeLg3MxMGBSHpMY_" />
+    <option name="defaultRemoveBranch" value="true" />
+  </component>
+</application>
