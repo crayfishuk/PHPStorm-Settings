@@ -42,6 +42,10 @@
           <option name="url" value="cfisher@cypher:/home/git/ci" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ad.prolateral.com/my-engine/temp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\cfisher\Desktop" />
