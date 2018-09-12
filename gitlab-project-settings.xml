@@ -3,5 +3,33 @@
     <option name="host" value="http://gitlab.ad.prolateral.com" />
     <option name="token" value="TYVzTeLg3MxMGBSHpMY_" />
     <option name="defaultRemoveBranch" value="true" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/my-engine/ci-server.git" />
+          <option name="name" value="ci-server" />
+          <option name="namespace" value="my-engine" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:my-engine/ci-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/my-engine/temp.git" />
+          <option name="name" value="temp" />
+          <option name="namespace" value="my-engine" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:my-engine/temp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/my-engine/whmcs-addon.git" />
+          <option name="name" value="whmcs-addon" />
+          <option name="namespace" value="my-engine" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:my-engine/whmcs-addon.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/vagrant/whmcs.git" />
+          <option name="name" value="whmcs" />
+          <option name="namespace" value="vagrant" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:vagrant/whmcs.git" />
+        </ProjectDto>
+      </list>
+    </option>
   </component>
 </application>
