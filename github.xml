@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="dcb4f6f1-2f57-404d-b682-f397a68b27b7" name="crayfishuk">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
   </component>
