@@ -10,8 +10,8 @@
       <mapping pattern="transport" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile-hyperv" type="PLAIN_TEXT" />
       <mapping pattern="newfile" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
