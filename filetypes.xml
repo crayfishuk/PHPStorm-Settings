@@ -7,9 +7,9 @@
       <mapping pattern="ProductsComponent" type="PHP" />
       <mapping pattern="Puppetfile" type="PLAIN_TEXT" />
       <mapping pattern="access" type="PLAIN_TEXT" />
-      <mapping pattern="transport" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile-hyperv" type="PLAIN_TEXT" />
       <mapping pattern="newfile" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile-hyperv" type="PLAIN_TEXT" />
+      <mapping pattern="transport" type="PLAIN_TEXT" />
       <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
@@ -28,7 +28,10 @@
       <removed_mapping ext="tmpl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
