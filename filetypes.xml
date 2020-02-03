@@ -4,29 +4,30 @@
       <mapping ext="tmpl" type="Go template" />
       <mapping pattern="Gruntfile" type="JavaScript" />
       <mapping pattern="ProductsComponent" type="PHP" />
-      <mapping pattern="SigningTable" type="PLAIN_TEXT" />
       <mapping pattern="TrustedHosts" type="PLAIN_TEXT" />
-      <mapping pattern="access" type="PLAIN_TEXT" />
-      <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
-      <mapping pattern="transport" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="Puppetfile" type="PLAIN_TEXT" />
+      <mapping pattern="SigningTable" type="PLAIN_TEXT" />
+      <mapping pattern="transport" type="PLAIN_TEXT" />
+      <mapping pattern="access" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile-hyperv" type="PLAIN_TEXT" />
       <mapping pattern="newfile" type="PLAIN_TEXT" />
+      <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
       <mapping pattern="KeyTable" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
-      <mapping ext="ca-bundle" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="ca-bundle" type="PLAIN_TEXT" />
       <mapping ext="private" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="Perl" />
       <mapping ext="epp" type="SmartyConfig" />
+      <removed_mapping ext="ts" approved="true" type="TypeScript" />
       <mapping pattern="DockerFile" type="YAML" />
       <removed_mapping ext="tmpl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -35,6 +36,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="ts" approved="true" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
