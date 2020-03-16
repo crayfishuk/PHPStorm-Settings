@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ctp" />
+    <option name="FILE_MASK" value="*.groovy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,5 +21,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.ctp</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
