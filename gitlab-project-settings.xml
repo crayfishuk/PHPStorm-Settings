@@ -1,0 +1,149 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="http://gitlab.ad.prolateral.com" />
+    <option name="token" value="TYVzTeLg3MxMGBSHpMY_" />
+    <option name="defaultRemoveBranch" value="true" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/backupmx.git" />
+          <option name="name" value="backupmx" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/backupmx.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/dns-engine.git" />
+          <option name="name" value="dns-engine" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/dns-engine.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/fakemx.git" />
+          <option name="name" value="fakemx" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/fakemx.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/hosted.git" />
+          <option name="name" value="hosted" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/hosted.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/inmail.git" />
+          <option name="name" value="inmail" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/inmail.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/outmail.git" />
+          <option name="name" value="outmail" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/outmail.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/outmail-server.git" />
+          <option name="name" value="outmail-server" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/outmail-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/postfix-snmp.git" />
+          <option name="name" value="postfix-snmp" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/postfix-snmp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/profilter.git" />
+          <option name="name" value="profilter" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/profilter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/appliances/profilter-server.git" />
+          <option name="name" value="profilter-server" />
+          <option name="namespace" value="appliances" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:appliances/profilter-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/apps/outmail-app.git" />
+          <option name="name" value="outmail-app" />
+          <option name="namespace" value="apps" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:apps/outmail-app.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/apps/outmailusage.git" />
+          <option name="name" value="outmailusage" />
+          <option name="namespace" value="apps" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:apps/outmailusage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/apps/outmailusage.iphone.git" />
+          <option name="name" value="outmailusage.iphone" />
+          <option name="namespace" value="apps" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:apps/outmailusage.iphone.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/my-engine/ci-server.git" />
+          <option name="name" value="ci-server" />
+          <option name="namespace" value="my-engine" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:my-engine/ci-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/my-engine/whmcs-addon.git" />
+          <option name="name" value="whmcs-addon" />
+          <option name="namespace" value="my-engine" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:my-engine/whmcs-addon.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/prolateral/postfix-cloner.git" />
+          <option name="name" value="postfix-cloner" />
+          <option name="namespace" value="prolateral" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:prolateral/postfix-cloner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/prolateral/postfix-manager.git" />
+          <option name="name" value="postfix-manager" />
+          <option name="namespace" value="prolateral" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:prolateral/postfix-manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/prolateral/pro_library.git" />
+          <option name="name" value="pro_library" />
+          <option name="namespace" value="prolateral" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:prolateral/pro_library.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/prolateral/produty.git" />
+          <option name="name" value="produty" />
+          <option name="namespace" value="prolateral" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:prolateral/produty.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/prolateral/profilter-game.git" />
+          <option name="name" value="profilter-game" />
+          <option name="namespace" value="prolateral" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:prolateral/profilter-game.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/prolateral/temp.git" />
+          <option name="name" value="sandbox" />
+          <option name="namespace" value="prolateral" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:prolateral/temp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/prolateral/sogo.git" />
+          <option name="name" value="sogo" />
+          <option name="namespace" value="prolateral" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:prolateral/sogo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.ad.prolateral.com/vagrant/whmcs.git" />
+          <option name="name" value="whmcs" />
+          <option name="namespace" value="vagrant" />
+          <option name="sshUrl" value="git@gitlab.ad.prolateral.com:vagrant/whmcs.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>

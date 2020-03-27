@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
+  </component>
+</application>

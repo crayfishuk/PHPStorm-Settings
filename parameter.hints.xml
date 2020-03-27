@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\__(singular,args)" />
+        <added pattern="\Object.log(msg,type,scope)" />
+        <added pattern="\SendEmail.sendMailByActivity(recipientId,templateClientId,emailConfig,params,activity_name,templateType)" />
+        <added pattern="\SendEmail.sendServiceEmailsByActivity(partnerId,clientId,params,activityName)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

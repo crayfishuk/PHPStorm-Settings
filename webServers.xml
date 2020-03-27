@@ -1,0 +1,41 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="004e17bf-b895-4459-80cb-1437b5b182cc" name="whmcs.staging.local" url="http://whmcs.staging.local">
+        <fileTransfer host="whmcs.staging.local" port="22" privateKey="D:\Documents\My Keys\private\mouse-ssh.ppk" rootFolder="/home/wwwWHMCS/modules" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="325dee3b-d237-4190-bfef-47cfe09a2e0e" name="CI Trunk" url="http://cf-ci.prolateral.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="32dcdf02-c43c-4f95-9a77-10f4d5f2f103" name="www.staging.local" url="http://www.staging.local">
+        <fileTransfer host="www.staging.local" port="22" rootFolder="/home/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4a6f38e4-f8f8-4e2d-a035-3b01c1ac9d87" name="staging" url="http://www.staging.local">
+        <fileTransfer host="www.staging.local" port="22" rootFolder="/home/www/templates/prolateral3" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5a60080b-1bf2-41dc-b524-c8a963438c10" name="stagingBS4" url="http://www.staging.local">
+        <fileTransfer host="www.staging.local" port="22" rootFolder="/home/www/templates/frontbs3" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
