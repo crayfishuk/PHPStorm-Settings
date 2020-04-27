@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\app\Model\LiveService.php'" />
-    <option name="defaultScopeName" value="File '...\app\Model\LiveService.php'" />
+    <option name="customScope" value="File '...\app\Lib\SendEmail.php'" />
+    <option name="defaultScopeName" value="File '...\app\Lib\SendEmail.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\Model\LiveService.php'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\Lib\SendEmail.php'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
