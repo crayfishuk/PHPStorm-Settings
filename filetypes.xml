@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tmpl" type="Go template" />
       <mapping pattern="Gruntfile" type="JavaScript" />
       <mapping pattern="ProductsComponent" type="PHP" />
       <mapping pattern="SigningTable" type="PLAIN_TEXT" />
@@ -19,9 +18,9 @@
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="private" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -38,6 +37,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="ts" approved="true" type="TypeScript" />
+      <mapping ext="tmpl" type="Go template" />
     </extensionMap>
   </component>
 </application>
