@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tmpl" type="Go template" />
       <mapping pattern="Gruntfile" type="JavaScript" />
       <mapping pattern="ProductsComponent" type="PHP" />
       <mapping pattern="SigningTable" type="PLAIN_TEXT" />
