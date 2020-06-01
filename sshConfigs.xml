@@ -89,6 +89,10 @@
       <sshConfig authType="PASSWORD" host="www.staging.local" id="381f0889-8721-45ff-a03a-e6056624832f" port="22" customName="www.staging.local" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="www.staging.local" id="11975aa7-864f-432e-97b6-6c525f36b520" port="22" customName="staging" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="www.staging.local" id="247d1ec2-dad4-4030-bfa7-62e82a7a72e4" port="22" customName="stagingBS4" nameFormat="CUSTOM" />
+      <sshConfig host="whmcs.staging.local" id="29d96404-8582-484b-acfc-86654e9343e7" keyPath="D:\Documents\My Keys\private\mouse-ssh.ppk" port="22" customName="whmcs.staging.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="fb19f579-6f91-4848-a269-a5779dae9d0d" port="22" customName="www.staging.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="de060207-c7e7-446a-b834-a061b92f0aa4" port="22" customName="staging" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="3fea0937-88d4-4136-ba33-10247804e0a7" port="22" customName="stagingBS4" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
