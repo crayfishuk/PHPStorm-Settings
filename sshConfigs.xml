@@ -85,6 +85,10 @@
       <sshConfig authType="PASSWORD" host="www.staging.local" id="75a30b86-b6ed-4050-93b6-2886869c6b6b" port="22" customName="stagingBS4" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="www.staging.local" id="a522f877-f3d2-4a79-85e2-5d039964637d" port="22" customName="staging" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="www.staging.local" id="ec67f1a6-5e6b-45c4-8347-f1150ab23be1" port="22" customName="stagingBS4" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="caaa4478-234d-4744-90cd-aad51ddf8bd7" port="22" customName="staging" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="1b157493-f3ee-4b3e-a1f6-3262d7e19186" port="22" customName="stagingBS4" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="1a46e1cf-73cc-4a35-8e75-e12278bec219" port="22" customName="staging" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="83f9b1dc-0bf9-4d30-a2fa-6493f59d67f3" port="22" customName="stagingBS4" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
