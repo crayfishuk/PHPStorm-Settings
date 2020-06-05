@@ -117,6 +117,10 @@
       <sshConfig authType="PASSWORD" host="www.staging.local" id="b6572ef0-69d9-439c-abca-c12481fc647f" port="22" customName="www.staging.local" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="www.staging.local" id="1e95e7c7-5884-47aa-aeba-fcf4705990a4" port="22" customName="staging" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="www.staging.local" id="910b6df1-83c1-43ef-b1d1-075bf23b988f" port="22" customName="stagingBS4" nameFormat="CUSTOM" />
+      <sshConfig host="whmcs.staging.local" id="a0e5ab97-d39b-4b55-b501-ec3a55dca7e0" keyPath="D:\Documents\My Keys\private\mouse-ssh.ppk" port="22" customName="whmcs.staging.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="37cd2c16-8564-4ee1-a097-0a12d766bf83" port="22" customName="www.staging.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="e87ee041-9ce8-4c5b-a05c-bdf9c6fbf4b3" port="22" customName="staging" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="www.staging.local" id="5f6e07d8-d948-439b-81b2-019f885a2d8c" port="22" customName="stagingBS4" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
