@@ -10,6 +10,7 @@
       <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
       <mapping pattern="transport" type="PLAIN_TEXT" />
       <mapping pattern="Puppetfile" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile-hyperv" type="PLAIN_TEXT" />
       <mapping pattern="newfile" type="PLAIN_TEXT" />
       <mapping pattern="KeyTable" type="PLAIN_TEXT" />
