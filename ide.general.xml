@@ -7,4 +7,12 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="js.debugger.webconsole" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+        <entry key="git" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
