@@ -9,6 +9,7 @@
       <mapping pattern="smtp_reply_filter" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile-hyperv" type="PLAIN_TEXT" />
       <mapping pattern="TrustedHosts" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="access" type="PLAIN_TEXT" />
       <mapping pattern="transport" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
