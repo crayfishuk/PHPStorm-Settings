@@ -2,9 +2,21 @@
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <DB2CodeStyleSettings version="2">
+    <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+  </DerbyCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,/div" />
   </HTMLCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+  </MSSQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+  </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
@@ -14,9 +26,15 @@
     <option name="SPACES_AROUND_VAR_WITHIN_BRACKETS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+  </PostgresCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
+  </SybaseCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
@@ -24,9 +42,8 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="TERNARY_OPERATION_WRAP" value="1" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
