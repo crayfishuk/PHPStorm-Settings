@@ -1053,6 +1053,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.robot">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="amailp.intellij.robot" />
+              <option name="myPluginName" value="Robot Framework Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rst">
           <value>
             <plugin>
