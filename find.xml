@@ -3,9 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -15,10 +13,11 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.ctp</mask>
     <mask>*.groovy</mask>
     <mask>*.sh</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
+    <mask>Rest*.php</mask>
+    <mask>*.ctp</mask>
   </component>
 </application>
