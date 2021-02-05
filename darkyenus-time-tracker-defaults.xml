@@ -1,0 +1,5 @@
+<application>
+  <component name="DarkyenusTimeTrackerDefaults">
+    <option name="gitTimePattern" value="/spendTook {{lh}} {{lm}} {{ts}}" />
+  </component>
+</application>
