@@ -11,10 +11,13 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
+    <mask>*.groovy</mask>
+    <mask>*.sh</mask>
+    <mask>*.css</mask>
+    <mask>Rest*.php</mask>
     <mask>*.ctp</mask>
+    <mask>*.php</mask>
   </component>
 </application>

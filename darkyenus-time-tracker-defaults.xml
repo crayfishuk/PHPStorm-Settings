@@ -1,0 +1,7 @@
+<application>
+  <component name="DarkyenusTimeTrackerDefaults">
+    <option name="idleThresholdMs" value="300000" />
+    <option name="autoCountIdleSeconds" value="60" />
+    <option name="gitTimePattern" value="/spend {{lh}} {{lm}} {{ts}}" />
+  </component>
+</application>

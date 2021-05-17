@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="DockerWindows" type="docker">
+    <remote-server name="DockerWindowsHome" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://localhost:2375" />
       </configuration>
