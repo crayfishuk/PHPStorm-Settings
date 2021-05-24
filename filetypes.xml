@@ -30,6 +30,7 @@
       <mapping pattern="Vagrantfile" type="Perl" />
       <mapping ext="resource" type="Robot file" />
       <mapping ext="epp" type="SmartyConfig" />
+      <mapping ext="tcx" type="XML" />
       <mapping pattern="DockerFile" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
