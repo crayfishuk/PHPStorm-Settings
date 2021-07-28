@@ -118,6 +118,14 @@
           <option name="url" value="https://gitlab.prolateral.com/my-engine/rest-mysql.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.prolateral.com/my-engine/appliances/inmail.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.prolateral.com/my-engine/outmail365-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\craig\Desktop" />
