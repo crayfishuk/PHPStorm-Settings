@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="004e17bf-b895-4459-80cb-1437b5b182cc" name="whmcs.staging.local" url="http://whmcs.staging.local">
-        <fileTransfer rootFolder="/home/wwwWHMCS/modules" accessType="SFTP" sshConfigId="a48f3c00-7b8d-46c4-af8a-2ab3b17bf54e" sshConfig="whmcs.staging.local">
+        <fileTransfer rootFolder="/home/wwwWHMCS/modules" accessType="SFTP" sshConfigId="4cb46668-0c5f-44c3-8edf-1ee83bb58fec" sshConfig="whmcs.staging.local">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -12,21 +12,21 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="32dcdf02-c43c-4f95-9a77-10f4d5f2f103" name="www.staging.local" url="http://www.staging.local">
-        <fileTransfer rootFolder="/home/www" accessType="SFTP" sshConfigId="878fc173-e2a9-4ee9-af0c-aba389021a34" sshConfig="www.staging.local">
+        <fileTransfer rootFolder="/home/www" accessType="SFTP" sshConfigId="c8fef3b8-3bfa-4e77-a42e-cb34ef314779" sshConfig="www.staging.local">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="4a6f38e4-f8f8-4e2d-a035-3b01c1ac9d87" name="staging" url="http://www.staging.local">
-        <fileTransfer rootFolder="/home/www/templates/prolateral3" accessType="SFTP" sshConfigId="1a46e1cf-73cc-4a35-8e75-e12278bec219" sshConfig="staging">
+        <fileTransfer rootFolder="/home/www/templates/prolateral3" accessType="SFTP" sshConfigId="597d4ae4-feae-47fb-9453-0cf9cb69a17d" sshConfig="staging">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="5a60080b-1bf2-41dc-b524-c8a963438c10" name="stagingBS4" url="http://www.staging.local">
-        <fileTransfer rootFolder="/home/www/templates/frontbs3" accessType="SFTP" sshConfigId="83f9b1dc-0bf9-4d30-a2fa-6493f59d67f3" sshConfig="stagingBS4">
+        <fileTransfer rootFolder="/home/www/templates/frontbs3" accessType="SFTP" sshConfigId="8be43893-4f1a-466c-ac2c-2674b51b97ba" sshConfig="stagingBS4">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
