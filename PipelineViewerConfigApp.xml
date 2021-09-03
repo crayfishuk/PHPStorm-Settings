@@ -1,0 +1,15 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="mappings">
+      <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="74" />
+          <option name="host" value="https://gitlab.prolateral.com" />
+          <option name="projectName" value="whmcs-server" />
+          <option name="projectPath" value="my-engine/appliances/whmcs-server" />
+          <option name="remote" value="https://gitlab.prolateral.com/my-engine/appliances/whmcs-server.git" />
+        </Mapping>
+      </list>
+    </option>
+  </component>
+</application>
