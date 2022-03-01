@@ -9,6 +9,13 @@
           <option name="projectPath" value="my-engine/appliances/whmcs-server" />
           <option name="remote" value="https://gitlab.prolateral.com/my-engine/appliances/whmcs-server.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1" />
+          <option name="host" value="https://gitlab.prolateral.com" />
+          <option name="projectName" value="CI Server" />
+          <option name="projectPath" value="my-engine/ci-server" />
+          <option name="remote" value="http://gitlab.ad.prolateral.com/my-engine/ci-server.git" />
+        </Mapping>
       </list>
     </option>
   </component>
