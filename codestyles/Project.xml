@@ -2,22 +2,32 @@
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <DB2CodeStyleSettings version="5">
+  <DB2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="5">
+  <DerbyCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
   </DerbyCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,/div" />
   </HTMLCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="5">
+  <MSSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
   </MSSQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="5">
+  <Markdown>
+    <option name="FORCE_ONE_SPACE_BETWEEN_WORDS" value="false" />
+    <option name="FORCE_ONE_SPACE_AFTER_HEADER_SYMBOL" value="false" />
+    <option name="FORCE_ONE_SPACE_AFTER_LIST_BULLET" value="false" />
+    <option name="FORCE_ONE_SPACE_AFTER_BLOCKQUOTE_SYMBOL" value="false" />
+    <option name="WRAP_TEXT_IF_LONG" value="false" />
+    <option name="KEEP_LINE_BREAKS_INSIDE_TEXT_BLOCKS" value="false" />
+    <option name="WRAP_TEXT_INSIDE_BLOCKQUOTES" value="false" />
+    <option name="INSERT_QUOTE_ARROWS_ON_WRAP" value="false" />
+  </Markdown>
+  <OracleCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
   </OracleCodeStyleSettings>
@@ -28,17 +38,22 @@
     <option name="SPACES_AROUND_VAR_WITHIN_BRACKETS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="5">
+  <PostgresCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
   </PostgresCodeStyleSettings>
-  <SqlCodeStyleSettings version="5">
+  <SqlCodeStyleSettings version="6">
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="5">
+  <SybaseCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
   </SybaseCodeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
